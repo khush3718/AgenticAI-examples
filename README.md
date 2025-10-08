@@ -9,13 +9,9 @@ The repository is organized into four main project directories, each containing 
 ```
 AgenticAI-examples/
 ├── agentic rag/
-│   ├── client.py
-│   ├── DOCS.md
-│   ├── README.md
+│   ├── client.py   
 │   └── server.py
 ├── Document Compare/
-│   ├── DOCS.md
-│   ├── README.md
 │   └── VersionCompare.ipynb
 ├── documentation_writer/
 │   └── DocumentAgent.ipynb
